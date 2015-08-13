@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="pref_key_choose_theme_type">1</string>
+    <int name="pref_key_creative_theme_link_outgoing_colour" value="-13329171" />
+    <int name="pref_key_creative_theme_new_message_indicator_colour" value="-248780" />
+    <int name="pref_key_creative_take_picture_colour" value="-65536" />
+    <int name="pref_key_creative_theme_divider_colour" value="-1" />
+    <string name="pref_key_action_button_shape">3</string>
+    <int name="pref_key_creative_theme_compose_msg_text_colour" value="-1" />
+    <string name="pref_key_new_message_indicator_shape">3</string>
+    <string name="pref_key_bubble_outgoing_style">5</string>
+    <boolean name="pref_key_activate_bubble_themes" value="true" />
+    <int name="pref_key_creative_msg_delivered_icon_colour" value="-16746241" />
+    <int name="pref_key_creative_theme_primary_colour" value="-16777216" />
+    <int name="pref_key_creative_theme_composing_text_colour" value="-4443598" />
+    <int name="pref_key_creative_theme_attach_popup_colour" value="-16777216" />
+    <int name="pref_key_creative_theme_conversation_bg_color" value="-16777216" />
+    <int name="pref_key_creative_add_emoji_colour" value="-65536" />
+    <int name="pref_key_creative_theme_emoji_picker_bg_colour" value="-16777216" />
+    <int name="pref_key_theme_colour_accent" value="-16742021" />
+    <int name="pref_key_creative_theme_emoji_picker_icons_colour" value="-14273992" />
+    <int name="pref_key_creative_theme_list_title_colour" value="-1" />
+    <int name="pref_key_creative_theme_list_desc_colour" value="-9440001" />
+    <string name="pref_key_bubble_incoming_style">5</string>
+    <boolean name="pref_key_activate_extra_mods" value="true" />
+    <int name="pref_key_theme_colour_primary" value="-16294316" />
+    <int name="pref_key_creative_theme_primary_text_light_colour" value="-315344" />
+    <int name="pref_key_creative_theme_msg_out_text_colour" value="-16711905" />
+    <int name="pref_key_creative_msg_time_stamp_colour" value="-65536" />
+    <int name="pref_key_creative_theme_call_accept_colour" value="-16133535" />
+    <int name="pref_key_creative_theme_bubble_out_colour" value="-13981252" />
+    <int name="pref_key_creative_theme_link_incoming_colour" value="-1231563" />
+    <int name="pref_key_creative_theme_bubble_input_colour" value="-9216" />
+    <boolean name="pref_key_activate_theme_engine" value="true" />
+    <boolean name="pref_key_activate_input_outline_mode" value="true" />
+    <boolean name="pref_key_activate_misc_colours" value="true" />
+    <int name="pref_key_creative_theme_card_bg_color" value="-13224651" />
+    <int name="pref_key_creative_theme_primary_text_dark_colour" value="-65536" />
+    <int name="pref_key_creative_theme_accent_colour" value="-12962764" />
+    <string name="pref_key_app_theme">0</string>
+    <int name="pref_key_creative_theme_home_bg_colour" value="-16777216" />
+    <int name="pref_key_creative_theme_msg_in_text_colour" value="-10164" />
+    <string name="pref_key_msg_states_indicator_styles_list_pref">3</string>
+    <int name="pref_key_creative_msg_sent_icon_colour" value="-9728" />
+    <string name="pref_key_app_name">WhatsAppBlack</string>
+    <int name="pref_key_creative_theme_bubble_in_colour" value="-1" />
+    <int name="pref_key_creative_msg_read_icon_colour" value="-16665313" />
+    <int name="pref_key_creative_theme_call_reject_colour" value="-1500093" />
+    <int name="pref_key_creative_msg_unsent_icon_colour" value="-65536" />
+</map>

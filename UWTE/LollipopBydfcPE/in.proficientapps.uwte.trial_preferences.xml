@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="pref_key_bubble_outgoing_style">11</string>
+    <int name="pref_key_creative_msg_delivered_icon_colour" value="-1" />
+    <boolean name="pref_key_activate_bubble_themes" value="true" />
+    <int name="pref_key_creative_theme_attach_popup_colour" value="-6645094" />
+    <int name="pref_key_creative_theme_bubble_extra_bg_colour" value="-65536" />
+    <int name="pref_key_creative_theme_emoji_picker_bg_colour" value="-16777216" />
+    <int name="pref_key_theme_colour_accent" value="-16742021" />
+    <int name="pref_key_creative_theme_emoji_picker_icons_colour" value="-1" />
+    <int name="pref_key_creative_theme_list_title_colour" value="-1" />
+    <string name="pref_key_bubble_incoming_style">11</string>
+    <int name="pref_key_creative_theme_primary_text_light_colour" value="-16777216" />
+    <int name="pref_key_theme_colour_primary" value="-16294316" />
+    <int name="pref_key_creative_theme_msg_out_text_colour" value="-1" />
+    <boolean name="pref_key_activate_bubble_extra_bg_outline_mode" value="true" />
+    <int name="pref_key_creative_theme_link_incoming_colour" value="-13918247" />
+    <boolean name="pref_key_activate_theme_engine" value="true" />
+    <int name="pref_key_creative_theme_card_bg_color" value="-6645094" />
+    <string name="pref_key_app_theme">1</string>
+    <int name="pref_key_creative_theme_home_bg_colour" value="-16777216" />
+    <int name="pref_key_creative_theme_bubble_in_colour" value="-16711927" />
+    <int name="pref_key_creative_msg_unsent_icon_colour" value="-65536" />
+    <int name="pref_key_creative_theme_link_outgoing_colour" value="-14049319" />
+    <string name="pref_key_choose_theme_type">1</string>
+    <int name="pref_key_creative_take_picture_colour" value="-1" />
+    <int name="pref_key_creative_theme_new_message_indicator_colour" value="-14049319" />
+    <int name="pref_key_creative_theme_app_bg_colour" value="-16777216" />
+    <int name="pref_key_creative_theme_divider_colour" value="-1174405121" />
+    <string name="pref_key_action_button_shape">1</string>
+    <int name="pref_key_creative_theme_call_ui_bg_colour" value="-16742021" />
+    <int name="pref_key_creative_theme_compose_msg_text_colour" value="-1" />
+    <string name="pref_key_new_message_indicator_shape">3</string>
+    <int name="pref_key_creative_theme_primary_colour" value="-16777216" />
+    <int name="pref_key_creative_theme_conversation_bg_color" value="-16777216" />
+    <int name="pref_key_creative_theme_home_icons_colour" value="-65536" />
+    <int name="pref_key_creative_add_emoji_colour" value="-1" />
+    <int name="pref_key_creative_theme_list_desc_colour" value="-1" />
+    <boolean name="pref_key_activate_extra_mods" value="true" />
+    <int name="pref_key_creative_theme_attach_popup_icons_text_colour" value="-117440513" />
+    <boolean name="pref_key_enable_custom_background_colour" value="true" />
+    <int name="pref_key_creative_msg_time_stamp_colour" value="-1" />
+    <int name="pref_key_creative_theme_call_accept_colour" value="-16133535" />
+    <int name="pref_key_creative_theme_bubble_out_colour" value="-14114855" />
+    <int name="pref_key_creative_theme_bubble_input_colour" value="-1" />
+    <int name="pref_key_creative_theme_home_typing_text_colour" value="-14114855" />
+    <string name="pref_key_conversation_msg_states_indicator_styles_list_pref">1</string>
+    <boolean name="pref_key_activate_input_outline_mode" value="true" />
+    <boolean name="pref_key_activate_misc_colours" value="true" />
+    <int name="pref_key_creative_theme_menu_text_colour" value="-1" />
+    <int name="pref_key_creative_theme_primary_text_dark_colour" value="-1" />
+    <int name="pref_key_creative_theme_accent_colour" value="-6645094" />
+    <int name="pref_key_creative_theme_msg_in_text_colour" value="-1" />
+    <string name="pref_key_app_name">WhatsApp</string>
+    <int name="pref_key_creative_msg_sent_icon_colour" value="-1" />
+    <int name="pref_key_creative_msg_read_icon_colour" value="-13918247" />
+    <string name="pref_key_home_msg_states_indicator_styles_list_pref">1</string>
+    <int name="pref_key_creative_theme_call_reject_colour" value="-1500093" />
+</map>
